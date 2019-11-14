@@ -1,0 +1,7 @@
+E:\Programowanko WSB\Ćwiczenia\wprowadzenieDoInf\wprowadzenieDoInf\bin\Debug\wprowadzenieDoInf.exe.config
+E:\Programowanko WSB\Ćwiczenia\wprowadzenieDoInf\wprowadzenieDoInf\bin\Debug\wprowadzenieDoInf.exe
+E:\Programowanko WSB\Ćwiczenia\wprowadzenieDoInf\wprowadzenieDoInf\bin\Debug\wprowadzenieDoInf.pdb
+E:\Programowanko WSB\Ćwiczenia\wprowadzenieDoInf\wprowadzenieDoInf\obj\Debug\wprowadzenieDoInf.csprojAssemblyReference.cache
+E:\Programowanko WSB\Ćwiczenia\wprowadzenieDoInf\wprowadzenieDoInf\obj\Debug\wprowadzenieDoInf.csproj.CoreCompileInputs.cache
+E:\Programowanko WSB\Ćwiczenia\wprowadzenieDoInf\wprowadzenieDoInf\obj\Debug\wprowadzenieDoInf.exe
+E:\Programowanko WSB\Ćwiczenia\wprowadzenieDoInf\wprowadzenieDoInf\obj\Debug\wprowadzenieDoInf.pdb
